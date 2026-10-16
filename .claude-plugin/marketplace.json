@@ -1,0 +1,14 @@
+{
+  "name": "pixel-pulse",
+  "owner": { "name": "Aditya Chandra Prajapati", "url": "https://github.com/air01aditya" },
+  "plugins": [
+    {
+      "name": "pixel-pulse",
+      "source": "./",
+      "description": "A purple pixel flow above the prompt and a purple pixel spiral in place of the working spinner, for the Claude Code desktop app",
+      "category": "appearance",
+      "tags": ["band", "spinner", "theme", "desktop", "mod"]
+    }
+  ],
+  "metadata": { "description": "Purple pixel animations for the Claude Code desktop app" }
+}
